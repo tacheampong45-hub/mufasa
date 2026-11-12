@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fuelly",
+  "description": "AI-powered calorie and macro tracker inspired by Apple's iOS 26 Liquid Glass design language, with natural language food logging and personalized targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
